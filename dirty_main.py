@@ -1,7 +1,7 @@
 from datetime import datetime as dt
 
-from application import salary
-from application.db import people
+from application import *
+from application.db import *
 
 def main():
     print(f"today: {dt.date(dt.now())}")
@@ -11,3 +11,12 @@ def main():
 
 if __name__ == '__main__':
     main()
+
+
+
+
+
+
+
+
+
