@@ -1,4 +1,1 @@
-__all__ = [
-    'salary',
-    'db'
-]
+__all__ = ['salary']
