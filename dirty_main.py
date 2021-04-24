@@ -1,7 +1,6 @@
 from datetime import datetime as dt
 
 from application import *
-from application.db import *
 
 def main():
     print(f"today: {dt.date(dt.now())}")

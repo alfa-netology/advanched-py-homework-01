@@ -1,1 +1,2 @@
-__all__ = ['salary']
+from .db import *
+__all__ = ['salary', 'people']
